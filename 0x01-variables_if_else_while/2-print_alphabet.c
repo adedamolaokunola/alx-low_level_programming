@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 /**
- * topic = Prints the alphabet.
+ * main - Prints the alphabet.
+ *
+ * return 0 
  */
 int main(void)
 {
