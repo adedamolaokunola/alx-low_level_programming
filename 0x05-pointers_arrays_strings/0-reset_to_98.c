@@ -4,7 +4,7 @@
 /**
  * main - reset_to_98
  *
- * Return: Always 0.
+ * Return no return
  */
 void reset_to_98(int *n)
 {
